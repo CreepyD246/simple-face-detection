@@ -6,7 +6,9 @@ This code uses OpenCV and Python Code to detect a face on the screen. This serve
 
 You'll need the ```haarcascade_frontalface_default.xml``` file, available in this repository.
 
-If you don't have OpenCV then you'll need to install that for Python as well ```pip install opencv-python```
+You'll also need to specify the path to this file inside the code.
+
+If you don't have OpenCV then you'll need to install that for Python as well ```pip install opencv-python```.
 
 
 ## Tutorial
